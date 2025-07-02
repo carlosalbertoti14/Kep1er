@@ -687,18 +687,20 @@ img#substitute-image {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url('../midia/html_bg.png');
+    background-color: #000;
+    background-image: url('../midia/GRUPO_HTML_BG.png');
     background-size: 100px 100px;
     height: 100vh;
     width: 100%;
     background-attachment: fixed;
-
-
-    overflow-x: hidden; /* Esconde o que ultrapassa a largura da tela */
-    /* Se você ainda precisar de rolagem vertical: */
+    overflow-x: hidden;
     overflow-y: auto;
 
+    /* Adicione estas propriedades para a animação */
+    animation: fadeBackground 5s infinite alternate; /* Nome da animação, duração, repetição e direção */
 }
+
+
 
 
 

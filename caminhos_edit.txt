@@ -20,6 +20,7 @@ arquivos3path:
 F:\Users\Caio89-W11\Documents\Caio89\SITES\SITES_CRIADOS\K-POP\Kep1er\album.html
 
 PROGRAMA4path:
+F:\Users\Caio89-W11\Documents\Caio89\SITES\SITES_CRIADOS\K-POP\Kep1er\perfil.html
 
 arquivos4path:
 
