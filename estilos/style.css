@@ -74,7 +74,7 @@ h4{
 
 
 h5{
-    color: var(--cor4);
+    color: white;
     text-shadow: 3px 3px 3px solid black;
 }
 
@@ -715,14 +715,14 @@ article {
 
     div#artigo{  
     padding: 10px;
-    background-color: var(--cor7);
+    background-color: rgb(93, 6, 128);
     border-radius: 10px;
     box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.397);
 }
 
 div#artigo > p{
     line-height: 1.5;
-    
+    color: white;
     
     
     
@@ -730,13 +730,13 @@ div#artigo > p{
 div#artigo > h2 {
     
     text-align: center;
-    color: black;
+    color: rgb(255, 255, 255);
     font-weight: bolder;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.418);
 }
 
 section.normal{
-    background-color: rgb(124, 12, 124);
+    background-color: rgb(121, 31, 121);
     color: white;
     padding: 10px;
     font-weight: bolder;
@@ -761,7 +761,7 @@ picture.poster {
 a.fonte {
     display: block;
     text-align: right;
-    color: #a82f9e;
+    color: #c07bba;
     
 }
 
