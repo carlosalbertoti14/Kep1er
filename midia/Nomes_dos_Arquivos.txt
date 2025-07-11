@@ -13,6 +13,7 @@ favicon.png
 fogos.webm
 GROUP_POSTER.jpg
 GRUPO_head.jpg
+GRUPO_HTML_BG.png
 kep1er_CAPA_ALBUM_Against The World.jpg
 kep1er_CAPA_ALBUM_Doublast.jpg
 kep1er_CAPA_ALBUM_First Impact.jpg
@@ -34,9 +35,7 @@ KEP1ER_KIMDAYEON_02MAR.png
 Kep1er_POSTER-Recuperado.jpg
 KEP1ER_SEOYOUNGEUN_27DEZ.png
 KEP1ER_SHENXIAOTING_12NOV.png
-listar_arquivos.bat
 LISTA_LOGO_ORIGINAL.png
-Nomes_dos_Arquivos.txt
 PERFIL_Bahiyyih_BG.jpg
 PERFIL_Chaehyun_BG.jpg
 PERFIL_Choi-Yu-jin_BG.jpg
@@ -48,6 +47,7 @@ PERFIL_YESEO_BG.jpg
 PERFIL_Youngeun_BG.jpg
 star_interview.webp
 Swing_entertainment_logo.png
+temp_file_list.txt
 theStar_magazine.jpg
 WAKEONE_logo.png
 YOUTUBE_LOGO_ORIGINAL.png
